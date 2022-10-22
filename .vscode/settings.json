@@ -1,0 +1,7 @@
+{
+    "slither.solcPath": "/usr/local/bin/solcjs",
+    "slither.hiddenDetectors": [
+        "constant-function-asm",
+        "constant-function-state"
+    ]
+}
